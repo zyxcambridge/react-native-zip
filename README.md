@@ -95,3 +95,6 @@ var styles = StyleSheet.create({
 
 ### see detail use
 * https://github.com/remobile/react-native-template
+
+
+添加 libz.tbd ,才能编译通过
